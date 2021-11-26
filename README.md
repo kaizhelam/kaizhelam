@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working as Software Engineer
+- 🔭 I am currently working as a software engineer in an Software company
 
 <!--
 **kaizhelam/kaizhelam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
