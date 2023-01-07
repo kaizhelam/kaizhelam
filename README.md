@@ -1,5 +1,4 @@
 ### Hi there 👋
-- 🔭 I am currently working as a Software Engineer in an Software company
 
 <!--
 **kaizhelam/kaizhelam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
