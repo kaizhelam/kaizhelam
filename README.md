@@ -1,7 +1,4 @@
-### Hi there 👋
-
-My Youtube Channel
-https://www.youtube.com/channel/UCKRZp3mkvL1CBYKFIlxjDdg
+### Hi Coder 👋
 
 <!--
 **kaizhelam/kaizhelam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
